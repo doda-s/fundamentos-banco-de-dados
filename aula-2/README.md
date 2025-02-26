@@ -69,3 +69,7 @@ Não se pode ter conjuntos de dados (chave multiatributo) iguais para uma entida
 - Um conjunto de entidades deve ter pelo menos um atributo não-chave.
 - Seja descritivo:
   - **Não** use siglas como noEmp, utilize nomeEmpresa.
+
+## Exercícios
+- [Exercício 1](https://excalidraw.com/#json=e59Zd6QwU6qyhiQlfqWnE,mwaIlnyyJKLR2QioPmpsLA)
+- [Exercício 2](https://excalidraw.com/#json=GYujwRb-unNy-JCNoq8Ya,6igQw0b2g-khlZrDk4HwdA)
